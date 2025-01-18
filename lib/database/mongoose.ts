@@ -1,5 +1,5 @@
 import mongoose, {Mongoose} from "mongoose";
-import { promise } from "zod";
+
 
 
 const MONGODB_URL = process.env.MONGODB_URL;
