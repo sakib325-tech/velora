@@ -1,7 +1,7 @@
 "use client"
 import React, { useEffect, useState } from 'react'
 import { Button } from './ui/button'
-import { AlignLeft, Menu } from 'lucide-react'
+import { AlignLeft, } from 'lucide-react'
 import { Sheet, SheetContent, SheetTitle, SheetTrigger } from './ui/sheet'
 import Sidebar from './Sidebar'
 
